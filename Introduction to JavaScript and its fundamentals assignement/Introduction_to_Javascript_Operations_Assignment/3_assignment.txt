@@ -1,0 +1,12 @@
+Question 3:Differentiate between unary, and binary operators in JavaScript. Give examples of each.
+
+
+Unary operators operate on one operand, while binary operators operate on two operands.
+Unary operators include the increment (++) and decrement (--) operators, the unary plus (+) and unary minus (-) operators, 
+and the logical NOT (!) operator.
+
+Binary operators include arithmetic operators such as addition (+), subtraction (-), multiplication (*), division (/), and modulus (%),
+ as well as assignment operators such as equals (=) and comparison operators such as equal to (==), not equal to (!=), greater than (>),
+  less than (<), and so on.
+
+  
